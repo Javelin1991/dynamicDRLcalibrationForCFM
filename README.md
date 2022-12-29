@@ -1,6 +1,8 @@
 # Dynamic Car-following Model Calibration with Deep Reinforcement Learning
 This repostiory contains both the original manuscript and supplementary materials of our paper, "Dynamic Car-following Model Calibration with Deep Reinforcement Learning", accepted by the IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
 
+Official Link: https://ieeexplore.ieee.org/abstract/document/9922041
+
 We have also provided our conference paper in this repository, correcting the typo in the final solution obtained by one of the baselines, Genetic Algorithm (GA). 
 
 If you are using or referring to any of the contents present in this repository, please kindly consider citing our paper as below. Thank you for your consideration.
